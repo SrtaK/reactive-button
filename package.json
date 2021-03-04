@@ -1,0 +1,23 @@
+{
+  "name": "reactive-button",
+  "version": "1.0.0",
+  "description": "A reactive button made with litElement",
+  "main": "reactive-button.js",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrtaK/reactive-button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrtaK/reactive-button/issues"
+  },
+  "homepage": "https://github.com/SrtaK/reactive-button#readme"
+}
